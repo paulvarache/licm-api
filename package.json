@@ -1,0 +1,23 @@
+{
+  "name": "licm",
+  "version": "1.0.0",
+  "description": "Site web pour L'Informatique c'est Magique",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/paulvarache/licm"
+  },
+  "author": "Paul Varache",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulvarache/licm/issues"
+  },
+  "homepage": "https://github.com/paulvarache/licm",
+  "dependencies": {
+    "restify": "^2.8.3"
+  }
+}
